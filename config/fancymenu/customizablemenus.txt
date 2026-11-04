@@ -1,0 +1,128 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
+}
+
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+
+net.minecraft.client.gui.screens.controls.ControlsScreen {
+}
+
+net.minecraft.client.gui.screens.OnlineOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.EditWorldScreen {
+}
+
+net.minecraft.client.gui.screens.BackupConfirmScreen {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.EditServerScreen {
+}
+
+net.minecraft.client.gui.screens.DirectJoinServerScreen {
+}
+
+net.minecraftforge.client.gui.ModListScreen {
+}
+
+org.embeddedt.modernfix.screen.ModernFixConfigScreen {
+}
+
+com.mrcrayfish.configured.client.screen.ModConfigSelectionScreen {
+}
+
+com.mrcrayfish.configured.client.screen.ConfigScreen {
+}
+
+net.minecraft.client.gui.screens.SkinCustomizationScreen {
+}
+
+net.minecraft.client.gui.screens.SoundOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.LanguageSelectScreen {
+}
+
+net.minecraft.client.gui.screens.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.AccessibilityOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.telemetry.TelemetryInfoScreen {
+}
+
+net.minecraft.client.gui.screens.packs.PackSelectionScreen {
+}
+
+traben.entity_texture_features.config.screens.ETFConfigScreenMain {
+}
+
+traben.entity_texture_features.config.screens.ETFConfigScreenWarnings {
+}
+
+traben.tconfig.gui.TConfigScreenList {
+}
+
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen {
+}
+
+dev.ftb.mods.ftblibrary.ui.ScreenWrapper {
+}
+
+top.theillusivec4.curios.client.gui.CuriosScreenV2 {
+}
+
+net.threetag.palladium.client.screen.AccessoryScreen {
+}
+
+net.minecraft.client.gui.screens.ShareToLanScreen {
+}
+
+net.minecraft.client.gui.screens.achievement.StatsScreen {
+}
+
+betteradvancements.common.gui.BetterAdvancementsScreen {
+}
+
+com.teamresourceful.resourcefulconfig.client.ConfigScreen {
+}
+
+net.minecraft.client.gui.screens.ConnectScreen {
+}
+
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
+net.minecraft.client.gui.screens.GenericDirtMessageScreen {
+}
+
+net.minecraft.client.gui.screens.ProgressScreen {
+}
+
+net.minecraft.client.gui.screens.ReceivingLevelScreen {
+}
+

@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "and_then_there_were_10"
+	group: ""
+	icon: "alienevo:prototype_omnitrix"
+	id: "642C9AB50BDBA423"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "And Then There Were 10"
+}
